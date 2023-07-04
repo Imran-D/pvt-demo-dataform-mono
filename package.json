@@ -1,0 +1,6 @@
+{
+  "name": "pvt-demo-dataform-mono",
+  "dependencies": {
+    "@dataform/core": "2.4.2"
+  }
+}
